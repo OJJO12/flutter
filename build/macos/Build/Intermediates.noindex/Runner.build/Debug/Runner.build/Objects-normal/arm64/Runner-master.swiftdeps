@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "cb39c06954fe68187580640558df8e9a9c6ab7dac278f9b14bd1001f26af9eeb"
+build_start_time: [1705048207, 893894000]
+build_end_time: [1705048213, 446202000]
+inputs:
+  "/Volumes/T7 Shield/Code/namer_app_icloud/macos/Flutter/GeneratedPluginRegistrant.swift": [1705048199, 320000000]
+  "/Volumes/T7 Shield/Code/namer_app_icloud/macos/Runner/AppDelegate.swift": [1689203133, 0]
+  "/Volumes/T7 Shield/Code/namer_app_icloud/macos/Runner/MainFlutterWindow.swift": [1689203133, 0]
